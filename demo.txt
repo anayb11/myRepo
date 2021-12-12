@@ -12,3 +12,5 @@ List comprehension from python
 Addition function for two numbers
 
 multiplication function for 2 numbers
+
+Python is platform independant
