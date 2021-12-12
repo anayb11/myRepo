@@ -5,6 +5,10 @@ Add the code of python
 
 Add the code of java
 
+Recursion function of Python
+
+List comprehension from python
+
 Addition function for two numbers
 
 multiplication function for 2 numbers
